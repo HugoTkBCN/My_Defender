@@ -1,0 +1,8 @@
+Background: image = "./assets/images/background/bg_pause.png" ; x = 0 ; y = 0
+Button: image = "./assets/images/button_utils/resume.png" ; x = 375 ; y = 300
+Button: image = "./assets/images/button_utils/button_menu.png" ; x = 375 ; y = 475
+Button: image = "./assets/images/button_utils/exitbutton.png" ; x = 375 ; y = 650
+Button: image = "./assets/images/button_utils/sound.png"; x = 25 ; y = 25
+Button: image = "./assets/images/button_utils/fps.png"; x = 25 ; y = 125
+Button: image = "./assets/images/button_utils/help.png"; x = 25 ; y = 225
+Button: image = "./assets/images/button_utils/credits.png"; x = 25 ; y = 325

@@ -1,0 +1,2 @@
+Background: image = "./assets/images/background/bg_scores.png" ; x = 0 ; y = 0
+Button: image = "./assets/images/button_utils/return.png" ; x = 25 ; y = 900

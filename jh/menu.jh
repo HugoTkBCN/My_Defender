@@ -1,0 +1,8 @@
+Background: image = "./assets/images/background/menu.png" ; x = 0 ; y = 0
+Button: image = "./assets/images/button_utils/playbutton.png" ; x = 325 ; y = 400
+Button: image = "./assets/images/button_utils/exitbutton.png" ; x = 375 ; y = 575
+Button: image = "./assets/images/button_utils/sound.png" ; x = 25 ; y = 25
+Button: image = "./assets/images/button_utils/fps.png" ; x = 25 ; y = 125
+Button: image = "./assets/images/button_utils/help.png" ; x = 1100 ; y = 25
+Button: image = "./assets/images/button_utils/scores.png" ; x = 1100 ; y = 125
+Button: image = "./assets/images/button_utils/credits.png" ; x = 1100 ; y = 225
